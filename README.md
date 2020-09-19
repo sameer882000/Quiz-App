@@ -1,1 +1,1 @@
-A Basic Quiz App created with HTML, CSS & JS.
+A very basic Quiz App created with HTML, CSS & JS.
