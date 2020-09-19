@@ -133,7 +133,7 @@ function resetQuiz() {
 }
 
 function displayScore() {
-    $(document).find(".quizContainer > .result").text("You scored: " + correctAnswers + " out of: " + questions.length);
+    $(document).find(".quizContainer > .result").text("You scored: " + correctAnswers + " out of " + questions.length);
     $(document).find(".quizContainer > .result").show();
 }
 
