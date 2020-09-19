@@ -4,7 +4,7 @@ var questions = [{
     choices: ["baby", "infant", "kit", "larva"],
     correctAnswer: 3
 }, {
-    question: "What is the adult of a kid called",
+    question: "What is the adult of a kid called?",
     choices: ["calf", "doe", "goat", "chick"],
     correctAnswer: 2
 }, {
@@ -48,7 +48,7 @@ var questions = [{
     correctAnswer: 0
 
 	}, {
-    question: "What is a baby Bear Called?",
+    question: "What is a baby Bear called?",
     choices: ["cub", "baby balu", "young bear", "bearlet"],
     correctAnswer: 0
 }];
