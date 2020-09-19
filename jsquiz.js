@@ -1,55 +1,55 @@
 
 var questions = [{
-    question: "What is the baby of a Moth known as?",
-    choices: ["baby", "infant", "kit", "larva"],
+    question: "12 x 2 = ?",
+    choices: ["12", "18", "6", "24"],
     correctAnswer: 3
 }, {
-    question: "What is the adult of a kid called?",
-    choices: ["calf", "doe", "goat", "chick"],
+    question: "12 x 3 = ?",
+    choices: ["18", "24", "36", "26"],
     correctAnswer: 2
 }, {
-    question: "What is the young of Buffalo called?",
-    choices: ["calf", "baby", "pup","cow"],
+    question: "2 x 4 = ?",
+    choices: ["8", "6", "18","4"],
     correctAnswer: 0
 }, {
-    question: "What a baby Alligator called?",
-    choices: ["baby", "gator", "hatchling", "calf"],
+    question: "2 x 5 = ?",
+    choices: ["0", "20", "10", "5"],
     correctAnswer: 2
 }, {
-    question: "What is a baby Goose called?",
-    choices: ["gooser", "gosling", "gup", "pup"],
+    question: "9 x 12 = ?",
+    choices: ["54", "108", "72", "36"],
     correctAnswer: 1
 }, {
-    question: "What is a baby Hamster called?",
-    choices: ["pup", "chick", "infant", "billy"],
+    question: "9 x 3 = ?",
+    choices: ["27", "9", "18", "36"],
     correctAnswer: 0	
 	
 }, {
-    question: "What is a baby Hawk called?",
-    choices: ["hawklett", "pup", "larva", "eyas"],
+    question: "7 x 3 = ?",
+    choices: ["7", "14", "24", "21"],
     correctAnswer: 3	
 }, {
-    question: "What is a baby grasshopper called?",
-    choices: ["hopper", "nymph", "stick", "pup"],
+    question: "6 x 11 = ?",
+    choices: ["22", "66", "33", "11"],
     correctAnswer: 1
 }, {
-    question: "What is a baby Kangaroo called?",
-    choices: ["kinga", "joey", "calf", "baby"],
-    correctAnswer: 1
-
-}, {
-    question: "What is a baby Whale called?",
-    choices: ["whala", "cub", "grub", "infant"],
+    question: "7 x 4 = ?",
+    choices: ["14", "28", "7", "21"],
     correctAnswer: 1
 
 }, {
-    question: "What is a baby Monkey called?",
-    choices: ["infant", "baby", "calf", "pup"],
+    question: "6 x 12 = ?",
+    choices: ["36", "72", "54", "24"],
+    correctAnswer: 1
+
+}, {
+    question: "6 x 9 = ?",
+    choices: ["54", "27", "36", "18"],
     correctAnswer: 0
 
 	}, {
-    question: "What is a baby Bear called?",
-    choices: ["cub", "baby balu", "young bear", "bearlet"],
+    question: "9 x 5 = ?",
+    choices: ["45", "25", "9", "15"],
     correctAnswer: 0
 }];
 
