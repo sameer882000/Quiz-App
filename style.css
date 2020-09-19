@@ -24,7 +24,7 @@ p {
 }
 /* Quiz Classes */
  .quizContainer {
-    background-color:#000398; 
+    background-color: #9400D3; 
     border-radius: 8px;
     width: 75%;
     margin: auto;
@@ -37,11 +37,11 @@ p {
 }
 .nextButton {
     box-shadow: 3px 3px 5px #888;
-    border-radius: 6px;
+    border-radius: 10px;
     width: 150px;
     height: 40px;
     text-align: center;
-    background-color:#cc0000;
+    background-color:#FF4500;
     clear: both;
     color:#fff;
     font-family:'Rokkitt', serif;
